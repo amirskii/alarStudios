@@ -7,5 +7,5 @@ Following technologies have been used:
 
 ## Screenshots
 
-[<img src="/screenshot/list.png" align="left" width="200" hspace="10" vspace="10">](/readme/list.png)
-[<img src="/screenshot/map.png" align="center" width="200" hspace="10" vspace="10">](/readme/map.png)
+[<img src="/screenshots/list.png" align="left" width="200" hspace="10" vspace="10">](/readme/list.png)
+[<img src="/screenshots/map.png" align="center" width="200" hspace="10" vspace="10">](/readme/map.png)
